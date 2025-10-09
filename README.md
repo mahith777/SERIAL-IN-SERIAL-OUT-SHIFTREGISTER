@@ -46,7 +46,7 @@ endmodule
 Developed by: Mahith M
 RegisterNumber:25001152
 
-*/
+
 
 **RTL LOGIC FOR SISO Shift Register**
 <img width="956" height="386" alt="Screenshot 2025-10-08 212613" src="https://github.com/user-attachments/assets/47ab0247-e44d-4435-8c53-54b842c5f188" />
@@ -56,4 +56,4 @@ RegisterNumber:25001152
 <img width="1749" height="133" alt="Screenshot 2025-10-08 212807" src="https://github.com/user-attachments/assets/4a754007-c2e8-4c54-b7ab-884dd19d7574" />
 
 **RESULTS**
-implement  SISO Shift Register using verilog and validating their functionality using their functional tables
+implemented  SISO Shift Register using verilog and validating their functionality using their functional tables verified
